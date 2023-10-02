@@ -20,7 +20,6 @@
   <br>
   <br>
   <br>
-  
-  <img width="57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meduarda-s&layout=compact&show_icons=true&theme=blue"/>
+
   
 </div>
