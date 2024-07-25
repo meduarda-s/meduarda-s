@@ -2,7 +2,7 @@
   
   <h1> Olá! Eu sou a Duda! sejam bem-vindos ao meu GitHub </h1>
   
-  <p> Estou buscando aprimorar e impulsionar meus estudos em programação, mais especificamente na formação Front-end para solucionar problemas e obter mais experiências para agregar   
+  <p> Estou buscando aprimorar e impulsionar meus estudos em programação, para solucionar problemas e obter mais experiências para agregar   
    tanto na vida profissional quanto para o crescimento pessoal. 💻 </p>
   <br>
   
